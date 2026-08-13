@@ -1,3 +1,35 @@
+# Hi 👋, I'm Swagata Das
+
+🎓 **MBA Data Science & AI** | 📊 **Data Analyst** | 🤖 **AI & ML Enthusiast**
+
+I'm passionate about turning data into meaningful insights and building practical solutions using **Data Analytics, Artificial Intelligence, Machine Learning, Python, SQL, and Power BI**.
+
+🔭 **Currently working on:** Data Analytics, AI/ML projects & automation solutions
+🌱 **Currently learning:** Advanced Data Analytics, Machine Learning, Generative AI & AI-powered automation
+👯 **Looking to collaborate on:** Data Analytics, AI/ML, Business Intelligence & automation projects
+🤔 **Looking for help with:** Building innovative, real-world AI & Data Analytics solutions
+💬 **Ask me about:** Python, SQL, Power BI, Excel, Data Analytics, Machine Learning & AI
+📫 **How to reach me:** Through GitHub or LinkedIn
+😄 **Pronouns:** She/Her
+⚡ **Fun fact:** I love turning raw data into insights, dashboards, and intelligent solutions. 🚀
+
+### 🛠️ Tech Stack
+
+**Languages:** Python | SQL | Java
+**Data Analytics:** Pandas | NumPy | Excel
+**Visualization:** Power BI | Tableau | Matplotlib
+**AI/ML:** Machine Learning | Generative AI
+**Web:** HTML | CSS | JavaScript
+**Database:** MySQL
+**Tools:** Git | GitHub | Jupyter Notebook
+
+### 🚀 Featured Interests
+
+📊 Data Analytics & Business Intelligence
+🤖 Artificial Intelligence & Machine Learning
+⚙️ Data Automation
+📈 Predictive Analytics
+💡 AI-powered Business Solutions
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/das.core07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swagata das) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Swagata Das) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SWAGATAOFFICIAL07@GMAIL.COM) 
